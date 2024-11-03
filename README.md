@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Hola! 👋 Soy un joven programador autodidacta que ha estado inmerso en el mundo del desarrollo web desde una edad temprana. Me apasiona explorar nuevas tecnologías y resolver desafíos creativos. Cuando no estoy escribiendo código, me encontrarás disfrutando de una buena comida 🍔 o explorando diferentes lugares del mundo 🌍. ¡Siempre buscando nuevas experiencias y oportunidades para crecer como desarrollador! 💻✨<br><br>
+¡Hola! 👋 Soy Ramiro. Un joven programador autodidacta que ha estado inmerso en el mundo del desarrollo web desde una edad temprana. Me apasiona explorar nuevas tecnologías y resolver desafíos creativos. Cuando no estoy escribiendo código, me encontrarás disfrutando de una buena comida 🍔 o explorando diferentes lugares del mundo 🌍. ¡Siempre buscando nuevas experiencias y oportunidades para crecer como desarrollador! 💻✨<br><br>
 
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ramerols) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imramero/) 
