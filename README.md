@@ -17,4 +17,4 @@ Hola 👋, Nací en Lima, Perú, y mi interés por la programación comenzó a l
 ![](https://github-contributor-stats.vercel.app/api?username=ramirols&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Ramirols&label=Vistas%20al%20perfil&color=2&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=Ramirols&label=Vistas%20al%20perfil&color=2&pretty=true)](https://github.com/ramirols)
