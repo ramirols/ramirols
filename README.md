@@ -1,16 +1,111 @@
-# 💫 Sobre mí:
-Hola 👋, nací en Lima, Perú, y mi interés por la programación comenzó a los 13 años, cuando empecé a explorar y crear pequeños proyectos por mi cuenta. Desde entonces, he trabajado constantemente para mejorar mis habilidades y aprender nuevas tecnologías, disfrutando del proceso de construir soluciones funcionales e innovadoras.<br><br>💻 A lo largo de los años, he desarrollado experiencia en HTML5, CSS3, JavaScript, React, Angular y WordPress, creando sitios web dinámicos y aportando a diversos proyectos para clientes. Estas experiencias me han permitido entender mejor las necesidades de los usuarios y entregar soluciones adaptadas a sus requerimientos.<br><br>📱 También he explorado el desarrollo móvil, desarrollando aplicaciones multiplataforma (Android & iOS) ampliando mi perspectiva sobre la programación en diferentes plataformas utilizando tecnologías modernas como React Native y Expo.<br><br>🎯 Me apasiona el aprendizaje continuo y colaborar en proyectos desafiantes que me permitan crecer como profesional. Creo firmemente en el intercambio de conocimientos y en formar parte de comunidades donde todos podamos aprender unos de otros. Mi objetivo siempre es mejorar, resolver problemas y contribuir con proyectos que marquen una diferencia.
+<h1 align="center">👋 Hola, soy Ramiro</h1>
+<h3 align="center">Frontend & Mobile Developer | Lima, Perú 🇵🇪</h3>
 
-# 💻 Tecnologías:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 Estadísticas:
-![](https://github-readme-stats.vercel.app/api?username=ramirols&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramirols&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirols&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Repositorio más contribuido:
-![](https://github-contributor-stats.vercel.app/api?username=ramirols&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/ramirols">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Construyendo+ideas+en+código;Amante+del+frontend+y+mobile;Siempre+aprendiendo+nuevas+tecnologías" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ramirols&label=Vistas%20al%20perfil&color=2&pretty=true)](https://github.com/ramirols)
+
+## 💫 Sobre mí
+
+💻 Empecé en la programación a los **13 años**, creando pequeños proyectos por curiosidad.  
+Desde entonces, no he parado de aprender y construir.
+
+🚀 Me especializo en **desarrollo web y móvil**, creando experiencias modernas, funcionales y centradas en el usuario.
+
+🎯 Me motiva:
+- Resolver problemas reales  
+- Aprender constantemente  
+- Trabajar en proyectos desafiantes  
+
+---
+
+## 🧰 Stack Tecnológico
+
+<details>
+<summary>✨ Ver tecnologías</summary>
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react)
+![Next](https://img.shields.io/badge/nextjs-black?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=flat&logo=angular)
+![Vue](https://img.shields.io/badge/vue-35495E?style=flat&logo=vue.js)
+
+### 🎨 UI / Styling
+![Tailwind](https://img.shields.io/badge/tailwind-38B2AC?style=flat&logo=tailwind-css)
+![NativeWind](https://img.shields.io/badge/nativewind-06B6D4?style=flat)
+![Shadcn](https://img.shields.io/badge/shadcn-ui-black?style=flat)
+![Sass](https://img.shields.io/badge/sass-hotpink?style=flat&logo=sass)
+
+### ⚙️ Backend & DB
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/react_native-20232A?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/expo-000000?style=flat)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin)
+![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java)
+
+### 🖥️ Otros lenguajes
+![C#](https://img.shields.io/badge/csharp-239120?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python)
+
+### ☁️ DevOps / Hosting
+![Vercel](https://img.shields.io/badge/vercel-black?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/netlify-000000?style=flat&logo=netlify)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare)
+![Hostinger](https://img.shields.io/badge/hostinger-673DE6?style=flat)
+![cPanel](https://img.shields.io/badge/cpanel-FF6C2C?style=flat)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramirols&show_icons=true&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramirols&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirols&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🔝 Contribuciones destacadas
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ramirols&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Visitas
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ramirols&label=Visitas&color=2&pretty=true"/>
+</p>
+
+---
+
+## ⚡ Fun fact
+
+```js
+const ramiro = {
+  code: ["JavaScript", "Kotlin", "C#", "PHP"],
+  focus: ["Frontend", "Mobile", "UI/UX"],
+  mindset: "Nunca parar de aprender 🚀"
+}
