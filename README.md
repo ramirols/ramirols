@@ -1,8 +1,21 @@
-<h1 align="center">👋 Hola, soy Ramiro</h1>
-<h3 align="center">💻 Frontend & Mobile Developer | Lima, Perú 🇵🇪</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#58A6FF,#8A2BE2,#00FFD1); -webkit-background-clip: text; color: transparent;">
+    👋 Hola, soy Ramiro
+  </span>
+</h1>
+
+<h3 align="center">
+  <span style="background: linear-gradient(90deg,#00FFD1,#58A6FF,#8A2BE2); -webkit-background-clip: text; color: transparent;">
+    💻 Frontend & Mobile Developer | Lima, Perú 🇵🇪
+  </span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Construyendo+soluciones+funcionales+e+innovadoras;Frontend+%7C+Mobile+%7C+Web+Development;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Construyendo+experiencias+modernas;Frontend+%7C+Mobile+%7C+Web;Interfaces+rápidas+y+escalables;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramirols&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -11,11 +24,11 @@
 
 Hola 👋, nací en Lima, Perú, y mi interés por la programación comenzó a los 13 años, cuando empecé a explorar y crear pequeños proyectos por mi cuenta. Desde entonces, he trabajado constantemente para mejorar mis habilidades y aprender nuevas tecnologías, disfrutando del proceso de construir soluciones funcionales e innovadoras.
 
-💻 A lo largo de los años, he desarrollado experiencia en HTML5, CSS3, JavaScript, React, Angular y WordPress, creando sitios web dinámicos y aportando a diversos proyectos para clientes. Estas experiencias me han permitido entender mejor las necesidades de los usuarios y entregar soluciones adaptadas a sus requerimientos.
+💻 A lo largo de los años, he desarrollado experiencia en HTML5, CSS3, JavaScript, React, Angular y WordPress, creando sitios web dinámicos y aportando a diversos proyectos para clientes.
 
-📱 También he explorado el desarrollo móvil, desarrollando aplicaciones multiplataforma (Android & iOS) ampliando mi perspectiva sobre la programación en diferentes plataformas utilizando tecnologías modernas como React Native y Expo.
+📱 También he explorado el desarrollo móvil, desarrollando aplicaciones multiplataforma (Android & iOS) con React Native y Expo.
 
-🎯 Me apasiona el aprendizaje continuo y colaborar en proyectos desafiantes que me permitan crecer como profesional. Creo firmemente en el intercambio de conocimientos y en formar parte de comunidades donde todos podamos aprender unos de otros. Mi objetivo siempre es mejorar, resolver problemas y contribuir con proyectos que marquen una diferencia.
+🎯 Me apasiona el aprendizaje continuo, resolver problemas reales y construir productos que generen impacto.
 
 ---
 
@@ -61,22 +74,14 @@ Hola 👋, nací en Lima, Perú, y mi interés por la programación comenzó a l
 
 ---
 
-## 🧠 Actualmente enfocado en
+## 🔥 Lo que me define
 
-- Interfaces modernas y escalables
-- Desarrollo móvil con React Native y Expo
-- Backend con Laravel y Supabase
-- UI limpia con Tailwind, NativeWind y shadcn/ui
-- Soluciones desplegadas con Cloudflare, Hostinger y cPanel
+<p align="center">
+🚀 Construyo productos reales, no solo interfaces<br>
+⚡ Me enfoco en performance, escalabilidad y UX<br>
+🧠 Aprendo rápido y me adapto aún más rápido<br>
+🎯 Busco proyectos que reten mis habilidades<br>
+🌍 Código con impacto, no solo con estética
+</p>
 
 ---
-
-## 💡 Fun Code
-
-```js
-const ramiro = {
-  ubicacion: "Lima, Perú 🇵🇪",
-  stack: ["Frontend", "Mobile", "Backend"],
-  tecnologias: ["React", "Laravel", "Supabase", "Kotlin", "C#"],
-  mentalidad: "Siempre aprendiendo 🚀"
-}
