@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="background: linear-gradient(90deg,#58A6FF,#8A2BE2,#00FFD1); -webkit-background-clip: text; color: transparent;"> 👋 Hola, soy Ramiro Ls </span> </h1> <h3 align="center"> <span style="background: linear-gradient(90deg,#00FFD1,#58A6FF,#8A2BE2); -webkit-background-clip: text; color: transparent;"> 💻 Frontend & Mobile Developer | Lima, Perú 🇵🇪 </span> </h3>
+<h1 align="center"> <span style="background: linear-gradient(90deg,#58A6FF,#8A2BE2,#00FFD1); -webkit-background-clip: text; color: transparent;"> 👋 Hola, soy Ramiro Ls </span> </h1> <h3 align="center"> <span style="background: linear-gradient(90deg,#00FFD1,#58A6FF,#8A2BE2); -webkit-background-clip: text; color: transparent;"> 💻 Ing de Software, Desarrollador Full Stack & Mobile </span> </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=760&color=58A6FF&lines=Construyendo+experiencias+modernas;Frontend+%7C+Mobile+%7C+Web;Interfaces+rápidas+y+escalables;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
