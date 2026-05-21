@@ -25,7 +25,7 @@ Hola 👋, nací en Lima, Perú, y mi interés por la programación comenzó a l
 ## 🧰 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,vue,tailwind,astro,bootstrap,vite,wordpress,php,laravel,mongodb,mysql,docker,git,github,figma,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,astro,bootstrap,vite,wordpress,php,laravel,mysql,docker,git,github,figma,kotlin,java" />
 </p>
 
 <p align="center">
