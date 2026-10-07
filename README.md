@@ -12,7 +12,7 @@
 
 ## 💫 Sobre mí
 
-Hola 👋, nací en Lima, Perú, y mi interés por la programación comenzó a los 13 años, cuando empecé a explorar y crear pequeños proyectos por mi cuenta. Desde entonces, he trabajado constantemente para mejorar mis habilidades y aprender nuevas tecnologías, disfrutando del proceso de construir soluciones funcionales e innovadoras.
+Hola 👋, nací en Trujillo, Perú. Actualmente vivo en la capital de mi país, Lima. Y mi interés por la programación comenzó a los 13 años, cuando empecé a explorar y crear pequeños proyectos por mi cuenta. Desde entonces, he trabajado constantemente para mejorar mis habilidades y aprender nuevas tecnologías, disfrutando del proceso de construir soluciones funcionales e innovadoras.
 
 💻 A lo largo de los años, he desarrollado experiencia en HTML5, CSS3, JavaScript, React, Angular y WordPress, creando sitios web dinámicos y aportando a diversos proyectos para clientes. Estas experiencias me han permitido entender mejor las necesidades de los usuarios y entregar soluciones adaptadas a sus requerimientos.
 
